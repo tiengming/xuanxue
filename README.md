@@ -1,6 +1,6 @@
 
-# 演示网站
-https://zhouyi.aiidea.shop
+# 演示网站（做了博客网站，讲人工智能和玄学一起来讲讲）
+[ai与玄学研究院](https://ai-xuanxue.vercel.app/)
 
 # 奇门遁甲学习笔记
 ## 乾卦 : 天、首、头部、父亲;
